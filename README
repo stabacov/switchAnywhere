@@ -1,0 +1,13 @@
+Switch Anywhere
+
+Settings switcher for Android, runnable from Notifications.
+
+Currently, only 3 functions available:
+
+ - Accelerometer Rotation : whether the accelerometer will be used to change screen orientation.
+ - Bluetooth : whether the bluetooth adapter is enabled.
+ - Wi-Fi : whether the wi-fi adapter is enabled.
+
+
+The application icon is delivered from Tango Icon Library (http://tango.freedesktop.org/Tango_Icon_Library).
+

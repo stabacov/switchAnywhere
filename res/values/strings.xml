@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Switch Anywhere</string>
+    <string name="ticker_text">Switch Anywhere Service begin.</string>
+    <string name="notification_text">Click to change status.</string>
+
+    <string name="start_on_boot">Automatically start on boot</string>
+    <string name="end_service">End Service</string>
+
+    <!-- Errors -->
+    <string name="error">Error.</string>
+    <string name="error_hardware">Error: function is not supported on your hardware.</string>
+    <string name="error_update">Error: some functions may not supported on your hardware.</string>
+
+    <!-- for Switcher  -->
+    <string name="accelerometer_rotation">Enable Accelerometer Rotation</string>
+    <string name="bluetooth">Enable Bluetooth</string>
+    <string name="wifi">Enable Wi-Fi</string>
+
+    <string name="system3_icon_url">http://openiconlibrary.sourceforge.net/gallery2/?./Icons/categories/applications-system-3.png</string>
+</resources>
